@@ -3,6 +3,7 @@ UEA Optativa Filosofía de la tecnología
 Miércoles de 8 a 11, salón G8  
 
 ## Clase 1
+[Inteligencia Artificial](https://www.ibm.com/topics/artificial-intelligence)
 ## Clase 2
 ## Clase 3
 MobileNet con ML5
