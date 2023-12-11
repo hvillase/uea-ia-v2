@@ -13,8 +13,10 @@ IBM: [Inteligencia Artificial](https://www.ibm.com/topics/artificial-intelligenc
 Introducción a la librería ML5 de Aprendizaje de Máquina (Machine Learning) con el modelo preentrenado [MobileNet](https://learn.ml5js.org/#/tutorials/hello-ml5)  
 ## Clase 4
 6 de diciembre 2023  
+Implementación de servidor local con [Simple Web Server](https://simplewebserver.org/)  
 ## Clase 5
 13 de diciembre 2023  
+Implementación del modelo de aprendizaje de máquina [COCO-SSD](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection?hl=en#0) de tensor flow javascript  
 ## Clase 6
 20 de diciembre 2023  
 ## Clase 7
