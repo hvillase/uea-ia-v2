@@ -17,6 +17,7 @@ Implementación de servidor local con [Simple Web Server](https://simplewebserve
 ## Clase 5
 13 de diciembre 2023  
 Implementación del modelo de aprendizaje de máquina [COCO-SSD](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection?hl=en#0) de tensor flow javascript  
+[Glosario](https://developer.mozilla.org/es/docs/Glossary) de MDN wweb docs.  
 ## Clase 6
 20 de diciembre 2023  
 ## Clase 7
@@ -29,3 +30,4 @@ Implementación del modelo de aprendizaje de máquina [COCO-SSD](https://codelab
 31 de enero 2024  
 ## Clase 11
 7 de febrero 2024  
+
