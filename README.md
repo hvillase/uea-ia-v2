@@ -16,16 +16,20 @@ Introducción a la librería ML5 de Aprendizaje de Máquina (Machine Learning) c
 Implementación de servidor local con [Simple Web Server](https://simplewebserver.org/)  
 ## Clase 5
 13 de diciembre 2023  
+[Tensorflow](https://www.tensorflow.org/?hl=es-419): modelos de aprendizaje automático.  
 Implementación del modelo de aprendizaje de máquina [COCO-SSD](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection?hl=en#0) de tensor flow javascript  
 [Glosario](https://developer.mozilla.org/es/docs/Glossary) de MDN wweb docs.  
 ## Clase 6
 20 de diciembre 2023  
 ## Clase 7
 10 de enero 2024  
+Modelo poseNet 1  
 ## Clase 8
 17 de enero 2024  
-## Clase 9
+## Clase 9  
 24 de enero 2024  
+Modelo PoseNet 2  
+Buscar PNG en [search commons](https://search.creativecommons.org/)
 ## Clase 10
 31 de enero 2024  
 ## Clase 11
