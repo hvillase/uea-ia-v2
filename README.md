@@ -24,14 +24,13 @@ Implementación del modelo de aprendizaje de máquina [COCO-SSD](https://codelab
 ## Clase 7
 10 de enero 2024  
 Modelo poseNet 1  
-## Clase 8
-17 de enero 2024  
 [PoseNet](https://learn.ml5js.org/#/reference/posenet)  
 Examples: p5.js [PoseNet webcam](https://github.com/ml5js/ml5-library/tree/main/examples/p5js/PoseNet/PoseNet_webcam)  
-## Clase 9  
-24 de enero 2024  
+## Clase 8
+17 de enero 2024  
 Modelo PoseNet 2  
 Buscar PNG en [search commons](https://search.creativecommons.org/)
+## Clase 9
 ## Clase 10
 31 de enero 2024  
 ## Clase 11
