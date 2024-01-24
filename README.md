@@ -1,6 +1,6 @@
 # uea-ia-v2
 UEA Optativa Filosofía de la tecnología, 2023O  
-Miércoles de 8 a 11, salón G8  
+Miércoles de 8 a 11, salón G8   
 
 ## Clase 1
 15 de noviembre 2023  
