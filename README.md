@@ -32,12 +32,12 @@ Modelo PoseNet 2
 Buscar PNG en [search commons](https://search.creativecommons.org/)
 ## Clase 9
 23 de enero 2024  
-#Proyecto final 1
+### Proyecto final 1
 Instrucciones
 ## Clase 10
 31 de enero 2024  
-#Proyecto final 2
+### Proyecto final 2
 ## Clase 11
 7 de febrero 2024  
-#Proyecto final 3
+### Proyecto final 3
 
